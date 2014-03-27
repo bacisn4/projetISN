@@ -1,0 +1,25 @@
+PROJET ISN
+
+Jeu codé en python consistant à trouver un mots généré par le programme, dans une grille définie, 
+le mots pourra se trouver que dans certaines postions prédifini dans le code. Les cases vides seront complétés par des lettres choisis au hasard. 
+On implantera le jeu dans une page web bien présenté si on dispose d'assez de temps.
+
+Découpage des fonctions:
+
+BRIGITTE Jonathan:
+
+    Classer les lettres au hasard dans le quadrillage
+    Création de la page web
+    Création des menus et des niveaux
+
+GOMRI Badr:
+
+    Faire le quadrillage
+    Remplir de le quadrillage de lettre choisi au hasard
+    Création de la page web
+
+NICOLAS Thomas:
+
+    Choisir le mot au hasard dans le dictionnaire
+    Création de la page web
+    Création des menus et des niveaux
