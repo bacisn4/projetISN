@@ -6,3 +6,13 @@ Il n'est pas raisonnable d'apprendre un langage de programmation comme Java pend
 Maintenez vous cette approche ? si oui développer une fonction java permettant de lire un fichier audio.
 
 si non, proposez un projet plus modeste dans lequel chaque membre de votre équipe pourra s'investir.
+
+4 avril
+Le projet formulé semble faisable mais n'a pas avancé durant cette semaine. Il faut 1 commit au moins par semaine / eleve
+
+pour la prochaine séance :
+- créer une fonction (qui reçoit un entier nb_lettre) qui renvoie au hasard un mot de nb_lettre du dictionnaire
+- créer une fonction (qui reçoit un entier nb_lettre) et la place dans un tableau (10 * 10)
+- créer une fonction qui affiche le contenu d'un tableau (10*10)
+
+
