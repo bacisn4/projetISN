@@ -11,7 +11,7 @@
 
 from mots_hasard import *
 
-def mots():
+def motsfr():
     return choice(mots)
 
 #Cette fonction renvoit le mot choisi dans le dictionnaire
