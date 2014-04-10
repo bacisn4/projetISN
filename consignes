@@ -16,3 +16,8 @@ pour la prochaine séance :
 - créer une fonction qui affiche le contenu d'un tableau (10*10)
 
 
+11 avril
+Vous venez de changer tardivement de projet. 
+Ecrire une fonction python qui reçoit comme argument un entier n et qui renvoit un mot du dictionnaire de n lettre.
+Ecrire une fonction qui compare deux mots et qui renvoie une chaine de caractère où les lettres qui diffèrent d'un mot à un autre 
+sont remplacées par le caractère '_'
