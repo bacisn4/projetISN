@@ -10,5 +10,6 @@
 #-------------------------------------------------------------------------------
 
 import random
-mots = [line.strip() for line in open('J:\dicofr.txt')]
-print random.choice(mots)
+mots = [line.strip() for line in open('J:\dicofr.txt')] #supprime tous les espaces au début à la fin, 
+#y compris les espaces, les tabulations, sauts de ligne et les retours chariot. 
+print random.choice(mots) #
