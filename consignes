@@ -21,3 +21,6 @@ Vous venez de changer tardivement de projet.
 Ecrire une fonction python qui reçoit comme argument un entier n et qui renvoit un mot du dictionnaire de n lettre.
 Ecrire une fonction qui compare deux mots et qui renvoie une chaine de caractère où les lettres qui diffèrent d'un mot à un autre 
 sont remplacées par le caractère '_'
+
+8 mai
+Maintenant que le jeu est fonctionnel il faut l'habiller un peu peut être trouver autre chose que le mode texte ou bien raffiner un peu les règles score, table de high score, variantes etc..
