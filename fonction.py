@@ -33,6 +33,6 @@ def mot_cacher(mot_complet, lettres_trouvees):
 
 def mot_hasard():
 
-	mots = [line.strip() for line in open('J:\dicofr.txt')]
-	return mots[random.randint(0,len(mots))]
+	mots = [line.strip() for line in open('J:\dicofr.txt')]  #on cree une liste contenant tt les lettres du dico
+	return mots[random.randint(0,len(mots))] #on pioche une valeur au hasard de la liste crée donc un mot du dico
 
