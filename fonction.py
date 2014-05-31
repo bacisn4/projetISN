@@ -12,7 +12,7 @@ def gamertag(): # on defini la fonction gamertag
 
 def lettre_user():
 
-    lettre = input("Tapez une lettre")
+    lettre = raw_input("Tapez une lettre")
     lettre = lettre.lower() #minuscule
     if len(lettre)>1:
         print("Vous n'avez pas saisi une lettre valide.")
